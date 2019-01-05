@@ -1,0 +1,20 @@
+{
+  "name": "Polymer",
+  "homepage": "https://github.com/rbenites/Polymer",
+  "authors": [
+    "rbenites <rbenites115@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^3.1.0"
+  }
+}

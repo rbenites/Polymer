@@ -1,0 +1,22 @@
+{
+  "name": "polymer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbenites/Polymer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbenites/Polymer/issues"
+  },
+  "homepage": "https://github.com/rbenites/Polymer#readme",
+  "dependencies": {
+    "@polymer/polymer": "^3.1.0"
+  }
+}
